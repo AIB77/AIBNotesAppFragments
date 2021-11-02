@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:background="#E3EA97"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="298dp"
+        android:layout_height="37dp"
+        android:text="TextView"
+        android:textColor="#100F0F"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/updatenote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#EF4949"
+        app:srcCompat="@android:drawable/ic_menu_edit"  />
+
+    <ImageView
+        android:id="@+id/deletenote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#B388FF"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+</LinearLayout>

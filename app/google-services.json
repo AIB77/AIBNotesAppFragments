@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824907848313",
+    "project_id": "aibnotesappfragments",
+    "storage_bucket": "aibnotesappfragments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824907848313:android:08d651a708e73f8ecd52a8",
+        "android_client_info": {
+          "package_name": "com.example.aibnotesappfragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824907848313-5p886bs06ikhtc3gkdh694gumrhresil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPdpckw_aIjaA48gxOWg2uqLjisySMFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824907848313-5p886bs06ikhtc3gkdh694gumrhresil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIBNotesAppFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="preference_file_key">com.example.aibnotesappfragments.PREFERENCE_FILE_KEY</string>
+</resources>
